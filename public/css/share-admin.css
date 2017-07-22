@@ -1,0 +1,19 @@
+.login-page {
+  background: url("http://8.su.bdimg.com/skin/124.jpg");
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0; }
+  .login-page .login-box {
+    width: 500px; }
+    .login-page .login-box .login-box-body {
+      padding: 50px;
+      width: 500px;
+      border-radius: 20px; }
+
+.errorMsg {
+  text-align: center;
+  width: 100%;
+  font-size: 1.5rem;
+  color: red; }
